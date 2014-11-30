@@ -32,7 +32,7 @@ This project provides few basic classes to be used during the "Design Pattern" l
 
 #### Updated class diagram of the provided code
 
-![UML new class diagram of the provided code](https://bytebucket.org/telecomnancy-pcd/design-patterns-lab/raw/c75905ab438c893770f196fb18c57c1344877169/uml/New Class Diagram .png)
+![UML new class diagram of the provided code](https://bytebucket.org/telecomnancy-pcd/design-patterns-lab/raw/c75905ab438c893770f196fb18c57c1344877169/uml/new-class-diagram.png)
 
 #### Class diagram of the provided code by Teachers
 
