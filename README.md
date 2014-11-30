@@ -32,7 +32,7 @@ This project provides few basic classes to be used during the "Design Pattern" l
 
 #### Updated class diagram of the provided code
 
-![UML new class diagram of the provided code](https://bytebucket.org/EricPerlinski/tp-design-pattern-perlinsk1u/uml/new-class-diagram.png)
+![UML updated class diagram of the provided code](https://bytebucket.org/EricPerlinski/tp-design-pattern-perlinsk1u/raw/953bb667cc955da6a3bad25b65e2d0e1baaa5320/uml/new-class-diagram.png?token=2eb7061d622862730afa764ac0a681d1e80dfd56)
 
 #### Class diagram of the provided code by Teachers
 
